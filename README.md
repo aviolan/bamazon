@@ -11,6 +11,9 @@ Bamazon is an Amazon-like storefront incoporating Node.js and MySQL. The app wil
 bamazon commands:
 
 <ul>
+    <li><code>npm install</code></li>
+    <li><code>npm install inquirer</code></li>
+    <li><code>npm install cli-table</code></li>
     <li><code>node bamazonCustomer.js</code> - initiates node.js and returns table of products stored in bamazon.sql</li>
     <li>Program ask's user which Item they would like to purchase. User enters Item ID Number</li>
     <li>Program ask's user how many of said item they would like to purchase</li>
